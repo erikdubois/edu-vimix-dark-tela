@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-vimix-dark-tela
 
 Hybrid icon theme: the [Vimix](https://github.com/vinceliuice/vimix-icon-theme) dark icon set with selected folder icons swapped in from the [Tela](https://github.com/vinceliuice/Tela-icon-theme) family. Part of the `~/EDU/` icon-theme series.
