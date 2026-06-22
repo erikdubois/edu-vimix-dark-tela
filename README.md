@@ -2,7 +2,7 @@
   <img src="kiro.jpg" alt="Kiro" width="220" />
 </p>
 
-# edu-vimix-dark-tela
+# kiro-vimix-dark-tela
 
 Hybrid icon theme: the [Vimix](https://github.com/vinceliuice/vimix-icon-theme) dark icon set with selected folder icons swapped in from the [Tela](https://github.com/vinceliuice/Tela-icon-theme) family. Part of the `~/EDU/` icon-theme series.
 
@@ -23,14 +23,14 @@ Server = https://erikdubois.github.io/$repo/$arch
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S edu-vimix-dark-tela
+sudo pacman -S kiro-vimix-dark-tela
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/erikdubois/edu-vimix-dark-tela.git
-cd edu-vimix-dark-tela
+git clone https://github.com/kirodubes/kiro-vimix-dark-tela.git
+cd kiro-vimix-dark-tela
 sudo cp -r usr/share/icons/. /usr/share/icons/
 sudo gtk-update-icon-cache -f /usr/share/icons/<theme-folder>
 ```
